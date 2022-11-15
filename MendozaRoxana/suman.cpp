@@ -14,4 +14,4 @@ int main()
 	}while(RYMG_i<RYMG_l);
 	cout<<"la suma de los numeros fue : "<<endl;
 	return 0;
-
+}
