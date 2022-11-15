@@ -14,4 +14,4 @@ int main()
 	}while(BDPC_i<BDPC_l);
 	cout<<"la suma de los numeros fue : "<<endl;
 	return 0;
-
+}
